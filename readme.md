@@ -1,7 +1,19 @@
-# Hi there! 👋 I'm Nik Zulaikhaa Binti Zuraidi Afandi  
+# Hi there! 👋
 
-🎓 **Third-year Data Engineering student at UTM**  
-📍 From Puchong, Selangor  
+I'm a **third-year Data Engineering student at Universiti Teknologi Malaysia (UTM)**, passionate about technology, data, and solving real-world problems through innovative solutions. 🚀  
+
+I enjoy exploring different aspects of data engineering, from databases to programming, and always eager to learn new technologies.  
+
+## 📚 About Me  
+💬 **Name:** Nik Zulaikhaa Binti Zuraidi Afandi  
+🎂 **Age:** 21  
+🌱 **Education:** Currently pursuing a **Bachelor of Data Engineering at UTM**  
+💡 **Aspiration:** To become a skilled data engineer who builds efficient and scalable data solutions 
+📍 **From:** Puchong, Selangor  
+🎯 **Interests:** Data engineering, software development, and web technologies  
+🎵 **Hobbies:** Listening to music, reading books, and sleep 💤 
+
+ 
 
 ## 🚀 Skills 
 
@@ -19,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nik-zulaikhaa-binti-zuraidi-afandi-a607a7261/])  
 
-## 🎉 Fun Ending  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpyYXhtbTVvdDVhNWUxdzMzMmEwZG92bXNmcG9mMjVjcGpzaDNzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+  <img src="https://media.tenor.com/AKHj5e7v4pcAAAAj/cute.gif" width="200"/>
 </p>
