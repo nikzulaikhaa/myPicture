@@ -4,7 +4,9 @@ I'm a **third-year Data Engineering student at Universiti Teknologi Malaysia (UT
 
 I enjoy exploring different aspects of data engineering, from databases to programming, and always eager to learn new technologies.  
 
-## 📚 About Me  
+
+
+## 📚 Introoduction
 💬 **Name:** Nik Zulaikhaa Binti Zuraidi Afandi  
 🎂 **Age:** 21  
 🌱 **Education:** Currently pursuing a **Bachelor of Data Engineering at UTM**  
@@ -14,6 +16,8 @@ I enjoy exploring different aspects of data engineering, from databases to progr
 🎵 **Hobbies:** Listening to music, reading books, and sleep 💤 
 
  
+
+
 
 ## 🚀 Skills 
 
@@ -27,11 +31,14 @@ I enjoy exploring different aspects of data engineering, from databases to progr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>  
 
+
+
 ## 📬 Connect with Me  
+<p align="center">
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-link)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nik-zulaikhaa-binti-zuraidi-afandi-a607a7261/])  
 
 
-<p align="center">
   <img src="https://media.tenor.com/AKHj5e7v4pcAAAAj/cute.gif" width="200"/>
 </p>
